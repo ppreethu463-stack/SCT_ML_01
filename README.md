@@ -4,6 +4,12 @@ This is a Machine Learning web application built using **Streamlit** to predict 
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://sct-ml-house-price.streamlit.app  
+
+---
+
 ## 🚀 Features
 
 - 📊 Data visualization (Correlation Heatmap)
