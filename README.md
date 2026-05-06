@@ -6,7 +6,7 @@ This is a Machine Learning web application built using **Streamlit** to predict 
 
 ## 🌐 Live Demo
 
-👉 https://sct-ml-house-price.streamlit.app  
+👉 https://sctml01-ccbxvpbrtqrhqkenu4jceu.streamlit.app/ 
 
 ---
 
