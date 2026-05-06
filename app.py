@@ -165,5 +165,5 @@ if st.button("Predict Price"):
 
 st.markdown("""
 ---
-Made by **SaiKishore P** | ML Internship Project 🚀
+Made by **Preethu BT** | ML Internship Project 🚀
 """)
